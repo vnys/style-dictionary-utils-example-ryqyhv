@@ -1,0 +1,33 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 29 Jun 2023 17:31:29 GMT
+ */
+
+:root {
+  --border: 2px solid red;
+  --drop-shadow: 0 0 2px 0px black;
+  --core-color-gray-50: #cccccc;
+  --core-color-gray-100: #333333;
+  --core-color-gray-150: #000000;
+  --core-color-gray-00: #ffffff;
+  --core-color-white: #ffffff;
+  --core-color-black: #000000;
+  --core-spacing-sm: 0.0625rem;
+  --core-spacing-md: 0.125rem;
+  --core-spacing-lg: 0.25rem;
+  --core-font-weight-light: 300;
+  --core-font-weight-normal: 400;
+  --core-font-weight-bold: 700;
+  --core-border-radius-none: 0;
+  --core-border-radius-sharp: 0.125rem;
+  --core-border-radius-small: 0.25rem;
+  --core-border-radius-medium: 0.5rem;
+  --core-border-radius-large: 0.75rem;
+  --core-border-radius-pill: 20rem;
+  --core-border-radius-circle: 50%;
+  --font-family-body: helvetica, sans-serif, 'Helvetica Neue';
+  --headings-font-weight-h1: 700;
+  --headings-font-weight-h2: 700;
+  --headings-font-weight-h3: 700;
+  --headings-font-weight-h4: 700;
+}

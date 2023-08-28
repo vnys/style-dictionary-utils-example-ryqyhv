@@ -1,0 +1,8 @@
+{
+  fontFamily: {
+    body: {
+      "$value": ['Times New Roman', 'sans-serif', 'Helvetica Neue'],
+      "$type": "fontFamily"
+    }
+  }
+}

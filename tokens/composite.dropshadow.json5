@@ -1,0 +1,12 @@
+{
+  "dropShadow": {
+  "$type": "shadow",
+  "$value": {
+    "color": "black",
+    "offsetX": "0px",
+    "offsetY": "1px",
+    "blur": "2px",
+    "spread": "0px"
+    }
+  }
+}

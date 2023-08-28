@@ -1,0 +1,15 @@
+{
+  core: {
+    color: {
+      "$type": 'color',
+      gray: {
+        '00': {"$value": '#ffffff'},
+        '50': {"$value": '#cccccc'},
+        '100': {"$value": '#333333'},
+        '150': {"$value": '#000000'},
+      },
+      white: {"$value": '{core.color.gray.00}'},
+      black: {"$value": '{core.color.gray.150}'},
+    }
+  }
+}

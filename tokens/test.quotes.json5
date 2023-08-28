@@ -1,0 +1,5 @@
+{
+  'quote-test': {
+    token: {'$value': '200px'}
+  }
+}

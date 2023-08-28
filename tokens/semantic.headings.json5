@@ -1,0 +1,11 @@
+{
+  headings: {
+    'font-weight': {
+      "$type": 'fontWeight',
+      'h1': {"$value": '{core.font-weight.bold}'},
+      'h2': {"$value": '{core.font-weight.bold}'},
+      'h3': {"$value": '{core.font-weight.bold}'},
+      'h4': {"$value": '{core.font-weight.bold}'}
+    }
+  }
+}

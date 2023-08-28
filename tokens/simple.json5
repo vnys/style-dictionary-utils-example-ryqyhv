@@ -1,0 +1,14 @@
+{
+  core: {
+    'border-radius': {
+      "$type": 'dimension',
+      'none': {"$value": '0'},
+      'sharp': {"$value": '0.125rem'},
+      'small': {"$value": '0.25rem'},
+      'medium': {"$value": '0.5rem'},
+      'large': {"$value": '0.75rem'},
+      'pill': {"$value": '20rem'},
+      'circle': {"$value": '50%'},
+    }
+  }
+}

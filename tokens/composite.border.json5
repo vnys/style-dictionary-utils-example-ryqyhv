@@ -1,0 +1,10 @@
+{
+  border: {
+    "$type": 'border',
+    "$value": {
+      'color': 'red',
+      'width': '2px',
+      'style': 'solid'
+    }
+  }
+}

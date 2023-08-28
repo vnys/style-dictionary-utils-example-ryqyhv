@@ -1,0 +1,9 @@
+{
+  core: {
+    spacing: {
+      sm: {"$type": 'dimension', "$value": '1px'},
+      md: {"$type": 'dimension',"$value": '2px'},
+      lg: {"$type": 'dimension',"$value": '4px'}
+    }
+  }
+}

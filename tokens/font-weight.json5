@@ -1,0 +1,10 @@
+{
+  core: {
+    'font-weight': {
+      "$type": 'fontWeight',
+      light: {"$value": '300'},
+      normal: {"$value": '400'},
+      bold: {"$value": '700'}
+    }
+  }
+}
