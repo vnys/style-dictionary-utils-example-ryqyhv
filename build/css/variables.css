@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 29 Jun 2023 17:31:29 GMT
+ * Generated on Mon, 28 Aug 2023 09:17:27 GMT
  */
 
 :root {
@@ -25,9 +25,10 @@
   --core-border-radius-large: 0.75rem;
   --core-border-radius-pill: 20rem;
   --core-border-radius-circle: 50%;
-  --font-family-body: helvetica, sans-serif, 'Helvetica Neue';
+  --font-family-body: 'Times New Roman', sans-serif, 'Helvetica Neue';
   --headings-font-weight-h1: 700;
   --headings-font-weight-h2: 700;
   --headings-font-weight-h3: 700;
   --headings-font-weight-h4: 700;
+  --quote-test-token: 200px;
 }
